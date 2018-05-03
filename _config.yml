@@ -9,25 +9,25 @@ url: ""
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "Aplicativos Web"
+project_one: Aplicativos Web
 project_one_description: Elaboramos e produzimos sites, baseados nas melhores práticas de desenvolvimento, como a melhor experiência para o usuário e facilidade para a sua manutenção.
 project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
+project_two: Aplicativos Mobile
+project_two_description: Desenvolvemos aplicativos para smartphones, que agregam um valor excepcional ao seu negócio nos dias de hoje, apresentando as mais diversas funcionalidades pretendidas pelo cliente.
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
+project_three: Banco de Dados
+project_three_description: Realizamos desde a modelagem do banco de dados do seu negócio, passando pela engenharia reversa, até consultas avançadas em SQL.
 project_three_url: https://github.com/jameshamann/jekyll-material-theme
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
+project_four: Gerenciamento de Processos
+project_four_description: Com o conhecimento dos mais diversos processos de gerenciamento organizacionais, elaboramos a modelagem atual do seu negócio, utilizando as mais avançadas técnicas como a dinâmica de sistemas e o BPMN.
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
