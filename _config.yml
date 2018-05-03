@@ -31,7 +31,7 @@ project_four_description: Com o conhecimento dos mais diversos processos de gere
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
-portfolio_heading: Portfolio
+portfolio_heading: Nossas Soluções
 portfolio_type: cards
 
 syntax_highlighting: true
@@ -41,88 +41,51 @@ skills:
   - name: amazonwebservices
   - name: android
   - name: angularjs
-  - name: apache
-  - name: appcelerator
   - name: apple
   - name: atom
-  - name: babel
-  - name: backbonejs
-  - name: bitbucket
   - name: bootstrap
-  - name: bower
   - name: c
   - name: chrome
-  - name: codeigniter
   - name: coffescript
-  - name: confluence
-  - name: cplusplus
-  - name: csharp
   - name: css3
   - name: cucumber
-  - name: d3js
   - name: debian
   - name: devicon
   - name: django
   - name: docker
-  - name: doctrine
-  - name: dot-net
-  - name: drupal
-  - name: erlang
   - name: facebook
   - name: firefox
-  - name: foundation
-  - name: gatling
-  - name: gimp
   - name: git
   - name: github
   - name: gitlab
-  - name: go
   - name: google
-  - name: gradle
-  - name: grunt
   - name: gulp
   - name: heroku
   - name: html5
-  - name: ie10
   - name: illustrator
-  - name: inkscape
   - name: itellij
   - name: java
-  - name: jasmine
   - name: javascript
-  - name: laravel
-  - name: less
   - name: linux
-  - name: meteor
-  - name: mocha
   - name: mongodb
-  - name: moodle
   - name: mysql
-  - name: nginx
   - name: nodejs
   - name: nodewebkit
   - name: oracle
   - name: photoshop
-  - name: php
-  - name: phpstorm
-  - name: protractor
   - name: postgresql
   - name: python
-  - name: pycharm
   - name: rails
   - name: react
   - name: redhat
-  - name: redis
   - name: ruby
   - name: rubymine
   - name: safari
   - name: sass
-  - name: sequelize
   - name: slack
   - name: sourcetree
   - name: ssh
   - name: swift
-  - name: symfony
   - name: tomcat
   - name: travis
   - name: trello
@@ -133,10 +96,7 @@ skills:
   - name: visualstudio
   - name: vuejs
   - name: webpack
-  - name: webstorm
-  - name: windows8
   - name: wordpress
-  - name: yii
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
