@@ -19,5 +19,5 @@ A ferramenta utilizada é a Loopy: http://ncase.me/loopy/. Um sistema web bem in
 O contexto apicado será o seguinte: Em um cenário mais amplo, utilizando os fatores endógenos de uma certa empresa, ela possui um montante de receita, despesas com contratações, pesquisa e inovação, acarretando em um aumento no preço dos produtos, o que em primeiro momento irá gerar uma diminuição de receita. 
 
 
-![Post1gif](assets/images/post1gif.gif)
+![Post1gif](/assets/images/post1gif.gif)
 
