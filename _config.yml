@@ -1,7 +1,7 @@
 title: GD Soluções e Consultoria
 name: Your Name
 email: your-email@example.com
-description: A GD Soluções e Consultoria visa sempre a melhor solução possível para os nossos clientes, buscando tanto a excelência operacional quanto a melhor custo-benefício. Nossa principal área de experiência é  Aplicativos Web, Aplicativos Mobile, Banco de Dados e o gerenciamento de processos de negócio. 
+description: A GD Soluções e Consultoria visa sempre a melhor solução possível para os nossos clientes, buscando tanto a excelência operacional quanto a melhor custo-benefício. Nossas principais áreas de experiência são Aplicativos Web, Aplicativos Mobile, Banco de Dados e o gerenciamento de processos de negócio. 
 
 baseurl: "/blog"
 url: ""
@@ -9,8 +9,8 @@ url: ""
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
+project_one: "Aplicativos Web"
+project_one_description: Elaboramos e produzimos sites, baseados nas melhores práticas de desenvolvimento, como a melhor experiência para o usuário e facilidade para a sua manutenção.
 project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: location_on
 
