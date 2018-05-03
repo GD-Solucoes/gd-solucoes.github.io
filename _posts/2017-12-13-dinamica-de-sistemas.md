@@ -2,7 +2,7 @@
 layout: post
 title:  "A beleza por trás da Dinâmica de Sistemas"
 date:   2018-05-03 21:15:05 +0000
-image: /assets/images/startup.jpg
+image: /assets/images/post1.jpg
 
 ---
 
