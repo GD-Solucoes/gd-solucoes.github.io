@@ -10,7 +10,7 @@ Você já ouviu falar em Dinâmica de Sistemas(System thinking)? Bom, esta disci
 
 Primeiramente, no que consiste os sistemas dinâmicos? Eles são basicamente o comportamento de um conjunto de elementos que se relacionam entre si ao longo do tempo. Logo, a dinâmica de sistemas pode ser aplicada para as mais diversas áreas de conhecimento. 
 
-E qual a beleza por trás so System Thinking? 
+E qual a beleza por trás do System Thinking? 
 
 Junto com a modelagem de processos, a dinâmica de processos oferece uma gama extensa de ferramentas para desenhar os processos de uma organização e como cada entidade desse processo se relaciona um com o outro, podendo assim identificar os maiores gargalos do processo em relação ao tempo. Ainda neste artigo, eu venho apresentar uma ferramenta bastante interessante para desenhar o diagrama causal para representar a dinâmica de um sistema, já apresentando um exemplo prático de como um processo se comporta. 
 
